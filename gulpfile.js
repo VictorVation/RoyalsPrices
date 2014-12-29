@@ -31,6 +31,11 @@ gulp.task('html', function () {
     .pipe($.uncss({
       html: [
         'src/index.html'
+      ],
+      ignore: [
+        /\.autocomplete.*/,
+        'cyan-text',
+        'red-text lighten-1'
       ]
     }))
     .pipe($.csso())
