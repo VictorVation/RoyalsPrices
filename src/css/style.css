@@ -1,0 +1,78 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+input#search {
+  text-align: center;
+  font-size: 2.92rem;
+  height: auto;
+}
+
+input[type=text]:focus,
+input[type=password]:focus,
+input[type=email]:focus,
+input[type=date]:focus,
+textarea:focus {
+  border-bottom: 1px solid #d1c4e9;
+  -webkit-box-shadow: 0 1px 0 0 #d1c4e9;
+  -moz-box-shadow: 0 1px 0 0 #d1c4e9;
+  box-shadow: 0 1px 0 0 #d1c4e9;
+}
+
+.small {
+  font-size: 0.777rem;
+}
+.autocomplete-suggestions {
+  background-color: #eceff1;
+  margin: 0 0 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 2px;
+  font-size: 1.5rem;
+  width: auto;
+  padding-bottom: 4px;
+}
+
+.autocomplete-suggestions .autocomplete-suggestion:last-child {
+  border-bottom: none;
+}
+.autocomplete-suggestions .autocomplete-suggestion,
+.autocomplete-no-suggestion {
+  display: block;
+  padding: 2px 5px;
+  background: transparent;
+  white-space: nowrap;
+  border-radius: 2px;
+  -webkit-transition: 0.2s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+  -moz-transition: 0.2s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+  -o-transition: 0.2s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+  -ms-transition: 0.2s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+  transition: 0.2s cubic-bezier(0.455, 0.030, 0.515, 0.955);
+  cursor: default;
+}
+.autocomplete-suggestions .autocomplete-suggestion:not(.active):hover {
+  background-color: #f2f2f2;
+}
+
+.autocomplete-suggestions .secondary-content {
+  font-size: 1.0rem;
+  float: right;
+}
+
+.autocomplete-selected {
+  background-color: #d1c4e9 !important;
+}
+
+::selection {
+  background: #d1c4e9; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #d1c4e9; /* Gecko Browsers */
+}

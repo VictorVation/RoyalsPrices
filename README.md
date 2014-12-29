@@ -1,0 +1,3 @@
+# [Royals Prices](http://vsz.me/RoyalsPrices)
+
+Scroll price searcher for MapleRoyals. Price information taken from <a class="blue-text lighten-2" href="https://docs.google.com/spreadsheets/d/14n-0lQpuCR8l2ZDkAW4MrftpFWVhV9LkMVtqU7Dvbrk/edit#gid=0">Royals Price Sheet</a> compiled by <a class="blue-text lighten-2" href="http://mapleroyals.com/forum/members/ddatsik.5506/">Exoduss/ddatsik</a>. Thanks to <a class="blue-text lighten-2" href="http://mapleroyals.com/forum/members/kaizoku.3951/">Kaizoku</a> and <a class="blue-text lighten-2" href="http://mapleroyals.com/forum/members/4844/">Plenty</a> for the prices.
