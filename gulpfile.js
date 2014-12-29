@@ -34,8 +34,8 @@ gulp.task('html', function () {
       ],
       ignore: [
         /\.autocomplete.*/,
-        'cyan-text',
-        'red-text lighten-1'
+        '.cyan-text',
+        '.red-text.lighten-1'
       ]
     }))
     .pipe($.csso())
