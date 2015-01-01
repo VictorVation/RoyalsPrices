@@ -16,7 +16,7 @@
             $('[role=price__p]').text(suggestion.data['Plenty Prices'] || '~');
         },
         formatResult: function(suggestion, currentValue) {
-          return suggestion.value + '<span class="secondary-content"><span class="red-text lighten-1">' + suggestion.data['Plenty Prices'] + '</span> <span class="cyan-text">' + suggestion.data['Kaizoku Prices'] + '</span></span>';
+          return suggestion.value + '<span class="secondary-content"><span class="red-text lighten-1">' + suggestion.data['Kaizoku Prices'] + '</span> <span class="cyan-text">' + suggestion.data['Plenty Prices'] + '</span></span>';
         },
         onInvalidateSelection: function() {
             console.log('hi');
