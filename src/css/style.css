@@ -70,6 +70,15 @@ textarea:focus {
   background-color: #d1c4e9 !important;
 }
 
+.flex {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.section {
+  flex: 1;
+}
 ::selection {
   background: #d1c4e9; /* WebKit/Blink Browsers */
 }
