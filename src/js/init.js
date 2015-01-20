@@ -19,7 +19,6 @@
           return suggestion.value + '<span class="secondary-content"><span class="red-text lighten-1">' + suggestion.data['Kaizoku Prices'] + '</span> <span class="cyan-text">' + suggestion.data['Plenty Prices'] + '</span></span>';
         },
         onInvalidateSelection: function() {
-            console.log('hi');
           $('[role=price__k]').fadeOut(200, function() {
             $(this).html('&nbsp;').fadeIn();
           });
