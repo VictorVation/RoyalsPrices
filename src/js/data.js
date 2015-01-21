@@ -840,5 +840,317 @@ data: {        "Kaizoku Prices": "2m",
         "value": "Chaos Scroll",
         data: {"Kaizoku Prices": "~",
         "Plenty Prices": "400m"}
+    },
+
+    {
+        "value": "1H Axe ATT",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "2H Axe ATT",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "1H BW ATT",
+        data: {"Kaizoku Prices": "1m",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "2H BW ATT",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "1m"}
+    },
+    {
+        "value": "1H Sword ATT",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "10m"}
+    },
+    {
+        "value": "2H Sword ATT",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "13m"}
+    },
+    {
+        "value": "1H Sword M.ATT",
+        data: {"Kaizoku Prices": "1.5m",
+        "Plenty Prices": ""}
+    },
+    {
+        "value": "Bottom DEX",
+        data: {"Kaizoku Prices": "8m",
+        "Plenty Prices": "7m"}
+    },
+    {
+        "value": "Bottom DEX W/Acc",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "8m"}
+    },
+    {
+        "value": "Bow ATT",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "17m"}
+    },
+    {
+        "value": "Cape DEX",
+        data: {"Kaizoku Prices": "2m",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "Cape INT",
+        data: {"Kaizoku Prices": "5m",
+        "Plenty Prices": "5m"}
+    },
+    {
+        "value": "Cape LUK",
+        data: {"Kaizoku Prices": "1.5m",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "Cape STR",
+        data: {"Kaizoku Prices": "1m",
+        "Plenty Prices": "1m"}
+    },
+    {
+        "value": "1H Axe ATT 30%",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "2H Axe ATT 30%",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "1H BW ATT 30%",
+        data: {"Kaizoku Prices": "1m",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "2H BW ATT 30%",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "1m"}
+    },
+    {
+        "value": "1H Sword ATT 30%",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "10m"}
+    },
+    {
+        "value": "2H Sword ATT 30%",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "13m"}
+    },
+    {
+        "value": "1H Sword M.ATT 30%",
+        data: {"Kaizoku Prices": "1.5m",
+        "Plenty Prices": ""}
+    },
+    {
+        "value": "Bottom DEX 30%",
+        data: {"Kaizoku Prices": "8m",
+        "Plenty Prices": "7m"}
+    },
+    {
+        "value": "Bottom DEX W/Acc 30%",
+        data: {"Kaizoku Prices": "",
+        "Plenty Prices": "8m"}
+    },
+    {
+        "value": "Bow ATT 30%",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "17m"}
+    },
+    {
+        "value": "Cape DEX 30%",
+        data: {"Kaizoku Prices": "2m",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "Cape INT 30%",
+        data: {"Kaizoku Prices": "5m",
+        "Plenty Prices": "5m"}
+    },
+    {
+        "value": "Cape LUK 30%",
+        data: {"Kaizoku Prices": "1.5m",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "Cape STR 30%",
+        data: {"Kaizoku Prices": "1m",
+        "Plenty Prices": "1m"}
+    },
+    {
+        "value": "Claw ATT 30%",
+        data: {"Kaizoku Prices": "19m",
+        "Plenty Prices": "25m"}
+    },
+    {
+        "value": "Crossbow ATT 30%",
+        data: {"Kaizoku Prices": "2m",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "Dagger ATT 30%",
+        data: {"Kaizoku Prices": "5m",
+        "Plenty Prices": "4m"}
+    },
+    {
+        "value": "Ear DEX 30%",
+        data: {"Kaizoku Prices": "8m",
+        "Plenty Prices": "7m"}
+    },
+    {
+        "value": "Ear INT 30%",
+        data: {"Kaizoku Prices": "30m",
+        "Plenty Prices": "30m"}
+    },
+    {
+        "value": "Ear LUK 30%",
+        data: {"Kaizoku Prices": "6m",
+        "Plenty Prices": "7m"}
+    },
+    {
+        "value": "Eye ACC 30%",
+        data: {"Kaizoku Prices": "2m",
+        "Plenty Prices": "2m"}
+    },
+    {
+        "value": "Eye INT 30%",
+        data: {"Kaizoku Prices": "3m",
+        "Plenty Prices": "5m"}
+    },
+    {
+        "value": "Face AVOID 30%",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "9m"}
+    },
+    {
+        "value": "Glove ATT 30%",
+        data: {"Kaizoku Prices": "12m",
+        "Plenty Prices": "12m"}
+    },
+    {
+        "value": "Glove M.ATT 30%",
+        data: {"Kaizoku Prices": "22m",
+        "Plenty Prices": "25m"}
+    },
+    {
+        "value": "Glove DEX 30%",
+        data: {"Kaizoku Prices": "1m",
+        "Plenty Prices": ""}
+    },
+    {
+        "value": "Gun ATT 30%",
+        data: {"Kaizoku Prices": "5m",
+        "Plenty Prices": "5m"}
+    },
+    {
+        "value": "Helm ACC 30%",
+        data: {"Kaizoku Prices": "3m",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "Helm DEX 30%",
+        data: {"Kaizoku Prices": "6m",
+        "Plenty Prices": "6m"}
+    },
+    {
+        "value": "Helm INT 30%",
+        data: {"Kaizoku Prices": "9m",
+        "Plenty Prices": "8m"}
+    },
+    {
+        "value": "Knuckle ATT 30%",
+        data: {"Kaizoku Prices": "7m",
+        "Plenty Prices": "10m"}
+    },
+    {
+        "value": "Overall DEX 30%",
+        data: {"Kaizoku Prices": "8m",
+        "Plenty Prices": "8m"}
+    },
+    {
+        "value": "Overall INT 30%",
+        data: {"Kaizoku Prices": "30m",
+        "Plenty Prices": "30m"}
+    },
+    {
+        "value": "Overall LUK 30%",
+        data: {"Kaizoku Prices": "5m",
+        "Plenty Prices": "5m"}
+    },
+    {
+        "value": "Overall STR 30%",
+        data: {"Kaizoku Prices": "8m",
+        "Plenty Prices": "6m"}
+    },
+    {
+        "value": "Pole Arm ATT 30%",
+        data: {"Kaizoku Prices": "3.5m",
+        "Plenty Prices": "3m"}
+    },
+    {
+        "value": "Shield ATT 30%",
+        data: {"Kaizoku Prices": "22m",
+        "Plenty Prices": "20m"}
+    },
+    {
+        "value": "Shield LUK 30%",
+        data: {"Kaizoku Prices": "900k",
+        "Plenty Prices": ""}
+    },
+    {
+        "value": "Shield M.ATT 30%",
+        data: {"Kaizoku Prices": "25m",
+        "Plenty Prices": "30m"}
+    },
+    {
+        "value": "Shield STR 30%",
+        data: {"Kaizoku Prices": "900k",
+        "Plenty Prices": ""}
+    },
+    {
+        "value": "Shoes DEX 30%",
+        data: {"Kaizoku Prices": "2m",
+        "Plenty Prices": ""}
+    },
+    {
+        "value": "Shoes JUMP 30%",
+        data: {"Kaizoku Prices": "8m",
+        "Plenty Prices": "8m"}
+    },
+    {
+        "value": "Shoes SPD 30%",
+        data: {"Kaizoku Prices": "1m",
+        "Plenty Prices": "1m"}
+    },
+    {
+        "value": "Staff M.ATT 30%",
+        data: {"Kaizoku Prices": "6m",
+        "Plenty Prices": "5m"}
+    },
+    {
+        "value": "Spear ATT 30%",
+        data: {"Kaizoku Prices": "9m",
+        "Plenty Prices": "9m"}
+    },
+    {
+        "value": "Top LUK 30%",
+        data: {"Kaizoku Prices": "7.5m",
+        "Plenty Prices": "4m"}
+    },
+    {
+        "value": "Top STR 30%",
+        data: {"Kaizoku Prices": "5m",
+        "Plenty Prices": "4m"}
+    },
+    {
+        "value": "Wand M.ATT 30%",
+        data: {"Kaizoku Prices": "15m",
+        "Plenty Prices": "15m"}
     }
+
 ];
