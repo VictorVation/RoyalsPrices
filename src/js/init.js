@@ -1,6 +1,5 @@
 (function($){
   $(function(){
-
     $('.button-collapse').sideNav();
 
     $('input[role=prices]')
@@ -12,6 +11,7 @@
         lookupLimit: 8,
         showNoSuggestionNotice: true,
         onSelect: function (suggestion) {
+            console.log(suggestion)
             $('[role=price__k]').text(suggestion.data['Kaizoku Prices'] || '~');
             $('[role=price__p]').text(suggestion.data['Plenty Prices'] || '~');
         },
