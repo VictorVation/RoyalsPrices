@@ -177,5 +177,20 @@ var prices = [
     {"value": "Overall LUK 30%", "data": {"Plenty Prices": "5M", "Kaizoku Prices": "~"}},
     {"value": "Overall LUK 60%", "data": {"Plenty Prices": "1M", "Kaizoku Prices": "~"}},
     {"value": "Overall LUK 70%", "data": {"Plenty Prices": "1M", "Kaizoku Prices": "~"}},
-    {"value": "Overall LUK 100%", "data": {"Plenty Prices": "~", "Kaizoku Prices": "~"}}
+    {"value": "Overall LUK 100%", "data": {"Plenty Prices": "~", "Kaizoku Prices": "~"}},
+    {"value": "Helm INT 10%", "data": {"Plenty Prices": "2M", "Kaizoku Prices": "~"}},
+    {"value": "Helm INT 30%", "data": {"Plenty Prices": "8M", "Kaizoku Prices": "~"}},
+    {"value": "Helm INT 60%", "data": {"Plenty Prices": "15M", "Kaizoku Prices": "~"}},
+    {"value": "Helm INT 70%", "data": {"Plenty Prices": "8M", "Kaizoku Prices": "~"}},
+    {"value": "Helm INT 100%", "data": {"Plenty Prices": "5M", "Kaizoku Prices": "~"}},
+    {"value": "Helm DEX 10%", "data": {"Plenty Prices": "1M", "Kaizoku Prices": "~"}},
+    {"value": "Helm DEX 30%", "data": {"Plenty Prices": "4M", "Kaizoku Prices": "~"}},
+    {"value": "Helm DEX 60%", "data": {"Plenty Prices": "9M", "Kaizoku Prices": "~"}},
+    {"value": "Helm DEX 70%", "data": {"Plenty Prices": "4M", "Kaizoku Prices": "~"}},
+    {"value": "Helm DEX 100%", "data": {"Plenty Prices": "2M", "Kaizoku Prices": "~"}},
+    {"value": "Helm ACC 10%", "data": {"Plenty Prices": "500k", "Kaizoku Prices": "~"}},
+    {"value": "Helm ACC 30%", "data": {"Plenty Prices": "3M", "Kaizoku Prices": "~"}},
+    {"value": "Helm ACC 60%", "data": {"Plenty Prices": "5M", "Kaizoku Prices": "~"}},
+    {"value": "Helm ACC 70%", "data": {"Plenty Prices": "3M", "Kaizoku Prices": "~"}},
+    {"value": "Helm ACC 100%", "data": {"Plenty Prices": "500k", "Kaizoku Prices": "~"}}
 ];
